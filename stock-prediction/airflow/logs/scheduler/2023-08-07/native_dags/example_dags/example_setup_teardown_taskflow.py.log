@@ -1,0 +1,10 @@
+[2023-08-07T17:59:12.956+0700] {processor.py:157} INFO - Started process (PID=23457) to work on /home/thien/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-08-07T17:59:12.957+0700] {processor.py:826} INFO - Processing file /home/thien/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2023-08-07T17:59:12.959+0700] {logging_mixin.py:150} INFO - [2023-08-07T17:59:12.958+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/thien/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-08-07T17:59:12.974+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/thien/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-08-07T17:59:13.045+0700] {processor.py:179} INFO - Processing /home/thien/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.115 seconds
+[2023-08-07T18:01:54.799+0700] {processor.py:157} INFO - Started process (PID=28483) to work on /home/thien/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-08-07T18:01:54.808+0700] {processor.py:826} INFO - Processing file /home/thien/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2023-08-07T18:01:54.810+0700] {logging_mixin.py:150} INFO - [2023-08-07T18:01:54.809+0700] {dagbag.py:541} INFO - Filling up the DagBag from /home/thien/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-08-07T18:01:54.813+0700] {processor.py:838} WARNING - No viable dags retrieved from /home/thien/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2023-08-07T18:01:54.829+0700] {processor.py:179} INFO - Processing /home/thien/.local/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.035 seconds
